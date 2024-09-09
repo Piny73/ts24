@@ -13,7 +13,7 @@
      
      
     <data-source>
-        <name>java:global/jdbc/exampleesame</name>
+        <name>java:global/jdbc/esame</name>
         <class-name>com.mysql.cj.jdbc.MysqlConnectionPoolDataSource</class-name>
         <url>jdbc:mysql://localhost:3306/esame?useSSL=false</url>
         <user>esame</user>
